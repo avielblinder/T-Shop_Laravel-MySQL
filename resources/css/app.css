@@ -1,0 +1,12 @@
+.fill {
+    display: flex;
+    flex: 0 0 1;
+}
+
+li > a > div.total-cart {
+    display: inline;
+    position: relative !important;
+    top: 5px;
+    left: -15px;
+    width: 300px;
+}
